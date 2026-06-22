@@ -8,7 +8,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Nouveau projet**
 * cliquez sur **Extensions** dans le menu engrenage
-* recherchez **[https://github.com/stephanebouzet/meteomars](https://github.com/stephanebouzet/MeteoMars/tree/master/Codes%20MakeCode)** et importez 
+* recherchez **[https://github.com/stephanebouzet/meteomars/Codes MakeCode](https://github.com/stephanebouzet/MeteoMars/tree/master/Codes%20MakeCode)** et importez 
 
 ## Éditer ce projet
 
@@ -16,7 +16,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
-* collez *[*https://github.com/stephanebouzet/meteomars](https://github.com/stephanebouzet/MeteoMars/tree/master/Codes%20MakeCode)** et cliquez sur importer
+* collez *[*https://github.com/stephanebouzet/meteomars/Codes MakeCode](https://github.com/stephanebouzet/MeteoMars/tree/master/Codes%20MakeCode)** et cliquez sur importer
 
 #### Métadonnées (utilisées pour la recherche, le rendu)
 
